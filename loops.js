@@ -17,3 +17,16 @@ const Resistencias = (array) => {
 console.log(Resistencias([-1, 5, 6, 3]));
 console.log(Resistencias([14,3.5,6]));
 console.log(Resistencias([8,15,100]));
+
+/* Suma de resistencias */
+// [X] Preparar constantes
+// [X]Declarar función para aceptar un arr por parámetro
+// [X]Loop por el arr
+// Tomar el valor absoluto de cada elemento
+// Sumar todos los valores absolutos del array
+
+const res1=[-1, 5, 6,3];
+const res2 =[14, 3.5, 6];
+const res3=[8,15,100];
+
+function sumResistencia (arr){}
